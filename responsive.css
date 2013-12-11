@@ -1,0 +1,33 @@
+/*---------------- Media Queries---------------*/
+
+ @media (max-width: 600px){
+ #titles{
+ display: none;
+ 
+ }
+ 
+ }
+ @media (max-width: 600px){
+ #resmoviebox{
+ display: block;
+ 
+ }
+ }
+ 
+ @media (max-width: 776px){
+	h3{
+	display:none;
+	}
+ }
+ 
+ @media (max-width: 1240px){
+	#header{
+	display:none;
+	}
+ }
+ 
+ @media (max-width: 1240px){
+	#resheader{
+	display:block;
+	}
+ }
